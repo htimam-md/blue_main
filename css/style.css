@@ -421,6 +421,8 @@ float: left;
     margin: 23px 0;
     /* border: 2px solid green; */
     /* padding-left: 10px; */
+ font-family: sans-serif;
+    font-size: 12px;
 }
 .copyright p{
    padding-left: 0;
