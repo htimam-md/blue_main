@@ -187,11 +187,11 @@ float: left;
 }
 
 .single {
-    /* border: 2px solid red; */
     float: left;
-    width: 28%;
-    padding: 10px 36px;
+    width: 25%;
+    padding: 10px 39px;
     border-right: 1px solid #18222f;
+    margin-left: 10px;
 }
 
 .single:last-child {
