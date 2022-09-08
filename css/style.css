@@ -429,6 +429,7 @@ float: left;
 .f-logo {
     /* width: 50%; */
     float: left;
+    amargin-left:50px
 }
 .f-logo img {
     display: inline-block;
